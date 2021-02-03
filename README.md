@@ -1,2 +1,2 @@
 # understat-futbol
-Extraer datos de la web de Understat (fútbol)
+PARTE I - https://vicdatadeporte.wordpress.com/2021/02/03/extraer-y-utilizar-datos-de-futbol-de-understat-en-python-i/
